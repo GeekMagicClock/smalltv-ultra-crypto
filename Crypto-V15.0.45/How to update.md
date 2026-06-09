@@ -1,0 +1,1 @@
+Download zip file, and unzip before update.
